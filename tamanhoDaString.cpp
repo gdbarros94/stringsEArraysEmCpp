@@ -6,3 +6,5 @@ int main() {
     printf("Tamanho da string: %zu\n", str.size());
     return 0;
 }
+
+//alias enviaGit="git add . && git commit -m 'a' && git push"
